@@ -3,7 +3,7 @@
 I have experience and skills in: 
 
 - Front End: React, Redux, Angular, HTML5, CSS3, jQuery
-- Back End: Express, Koa, NodeJS, PostgreSQL, Sequelize, MongoDB, Mongoose, REST APIs
+- Back End: Express, Koa, NodeJS, PostgreSQL, Sequelize, MongoDB, Mongoose, REST APIs, .NET Core, MS SQL Server, Entity Framework
 - Others: JavaScript(ES6), TypeScript, TDD/BDD, Jest, Cypress, JSON, Git, npm, JWT
 
 
